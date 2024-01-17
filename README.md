@@ -8,7 +8,3 @@
 </p>
 
 ## Hola Mundo!! 🤔
-- 💬 Preguntame lo que quieras saber.
-- 📫 Blog en construcción: [Lugo Blog](#)
-- 🎯 Portfolio: [Portfolio](#)
-- ⚡ Dato Curioso: Los elefantes no saltan.
